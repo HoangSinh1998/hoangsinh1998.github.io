@@ -126,6 +126,19 @@
     .footer-pading {
         margin-top: 10px;
     }
+    .footer-list_link {
+        justify-content: center;
+    }
+    .footer__heading {
+        text-align: center;
+    }
+    .footer__dowload {
+        align-items: center;
+        justify-content: center;
+    }
+    .footer__dowload-apps {
+        display: flex;
+        flex-direction: column;
     }
 }
 @keyframes mobileSearchSideIn {

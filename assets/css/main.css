@@ -1240,6 +1240,7 @@ i.home-product-item__like-icon-fill {
     padding: 8px 0;
     display: flex;
     align-items: center;
+
 }
 .footer-list_link:hover {
     color: var(--primary-color);
